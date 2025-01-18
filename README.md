@@ -1,6 +1,6 @@
 # Pizza-sales-analysis
 1.Retrieve the total number of orders placed.
-![q1](https://github.com/user-attachments/assets/b2809017-807d-4ae4-883d-90ed7d4414a8)
+![q1](https://github.com/user-attachments/assets/63c297a7-95ad-4ea5-a8f8-36f42bbf81d0)
 
 2.Identify the highest-priced pizza.
 ![q2](https://github.com/user-attachments/assets/aaa43bc4-766c-4486-918c-3b0303490ec5)
