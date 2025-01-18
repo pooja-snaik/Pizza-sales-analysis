@@ -17,10 +17,10 @@ This project demonstrates a comprehensive analysis of pizza sales using SQL, lev
 ### Dataset Overview  
 
 The analysis is powered by four key tables:  
-- **Orders**: Contains details of customer orders, including order ID, timestamps, and customer information.  
-- **Pizzas**: Holds details about pizza types, categories, and their prices.  
-- **Order Details**: Captures the specifics of each order, such as the quantity and type of pizzas ordered.  
-- **Customers**: Includes customer demographics and location data to support segmentation analysis.  
+- **Orders**: Contains details of order_id, order_date, order_time.  
+- **Order Details**: Holds details about order_details_id, order_id, pizza_id , quantity.  
+- **Pizzas**: Holds details about pizza_id ,pizza_type_id ,size , price.
+- **Pizza types**:  Holds details about   pizza_type_id, name, category, ingredients.
 
 ### Techniques and SQL Concepts  
 
