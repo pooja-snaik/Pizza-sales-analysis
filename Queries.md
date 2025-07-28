@@ -37,3 +37,7 @@
 
 13.Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 ![q13](https://github.com/user-attachments/assets/14db874f-93b3-47ea-9c71-4ad6c4082fc4)
+
+
+
+
